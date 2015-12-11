@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Double_Cross_8_Bit_Cipher
+namespace Triple_Cross_System
 {
     public partial class Form1 : Form
     {
